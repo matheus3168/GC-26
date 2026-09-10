@@ -1,2 +1,2 @@
 # GC-26
-Para visualizar atividades e trabalhos
+Atividades feitas em aula da trilha de Programação Java do Geração Caldeira 2026
